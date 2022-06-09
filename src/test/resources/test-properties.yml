@@ -1,0 +1,9 @@
+baseUrl:
+  local: https://gorest.co.in
+
+headers:
+  Content-Type: application/json;charset=UTF-8
+  Cache-Control: no-cache
+  ApiKey: ${apiKey}
+  X-Custom-Gateway-Key: ${gatewayKey}
+  Authorization: Bearer e63a1801227bc8da90973742114f5718fe08cef001351d4be11293b0543b4c80
